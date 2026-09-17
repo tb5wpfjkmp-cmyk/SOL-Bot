@@ -1,4 +1,16 @@
 # SOL-Bot
+
+SOL-Bot
+├── src/
+│   ├── analyze.py
+│   ├── backtest.py
+│   ├── report.py
+│   └── send_sms.py
+├── dashboard/
+├── .github/workflows/daily.yml
+├── requirements.txt
+└── README.md
+
 SOL-Bot
 │
 ├── Market Data
